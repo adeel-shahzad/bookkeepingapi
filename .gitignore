@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/bookkeepingapi/bookkeeper.db
+/bookkeepingapi/bookkeeper.db-shm
+/bookkeepingapi/bookkeeper.db-wal
