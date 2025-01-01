@@ -1,0 +1,6 @@
+@bookkeepingapi_HostAddress = http://localhost:5224
+
+GET {{bookkeepingapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

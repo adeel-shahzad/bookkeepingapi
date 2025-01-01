@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookkeepingapi", "bookkeepingapi\bookkeepingapi.csproj", "{0CCB2731-293A-4817-B4A6-E7788C5D1E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCB2731-293A-4817-B4A6-E7788C5D1E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCB2731-293A-4817-B4A6-E7788C5D1E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCB2731-293A-4817-B4A6-E7788C5D1E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCB2731-293A-4817-B4A6-E7788C5D1E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5756065E-8EC0-4627-9F49-03B02ED403F1}
+	EndGlobalSection
+EndGlobal
